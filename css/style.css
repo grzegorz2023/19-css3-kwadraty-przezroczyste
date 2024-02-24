@@ -1,0 +1,26 @@
+body {
+    background-color: #f5f5dd;
+}
+div {
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
+#pierwszy {
+    margin-top: 40px;
+    background-color: rgba(0, 0, 0, 1);
+    margin-bottom: 20px;
+}
+#drugi {
+    background-color: rgba(0, 0 ,0 , 0.75);
+    margin-bottom: 20px;
+}
+#trzeci {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+#czwarty {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+    
